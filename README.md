@@ -5,7 +5,7 @@
 
 *Welcome to N1-Conception – where engineering meets imagination!*  
 Dive into a curated collection of mechanical marvels, meticulously modeled and brought to life using SolidWorks.
-(./profile.jpg)
+![Profile](./profile.jpg)
 ---
 
 ## 👨‍💻 About Me
@@ -13,20 +13,23 @@ Dive into a curated collection of mechanical marvels, meticulously modeled and b
 I'm *Nishchay Sharma*, a passionate Mechanical Engineer and Gold Medalist who transforms ideas into tangible designs. From intricate mechanisms to futuristic concepts, I blend precision with creativity to craft models that resonate.
 
 > "If you can imagine it, I can model it."  
-(./imagine.jpg)
+![Alt Text](./imagine.jpg)
 ---
 
 ## 🌟 Highlights
 
 Here are a few of my standout designs—click to explore the folder and dive in:
 
-- *Spur Gear Mechanism* ([Project‑1](./part1.jpg))  
+- *Spur Gear Mechanism*
+ ![Project‑1](./part1.jpg) 
   A high‑precision gear train optimized for minimal backlash and smooth torque transmission.
 
-- *Omni Mount Bracket* ([Project‑2](./part2.jpg))  
+- *Omni Mount Bracket* 
+ ![Project‑2](./part2.jpg)  
   A robust multi‑component model for Automobile Industry .
 
-- *Starcore coupling* ([Project‑3](./part3.jpg))  
+- *Starcore coupling* 
+ ![Project‑3](./part3.jpg)  
   Plys up Central hub geometry for Sci-fi twist.
 
 
