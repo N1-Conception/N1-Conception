@@ -21,15 +21,15 @@ I'm *Nishchay Sharma*, a passionate Mechanical Engineer and Gold Medalist who tr
 Here are a few of my standout designs—click to explore the folder and dive in:
 
 - *Spur Gear Mechanism*
- ![Project‑1](./part1.jpg) 
+ ![Project‑1](./part1.png) 
   A high‑precision gear train optimized for minimal backlash and smooth torque transmission.
 
 - *Omni Mount Bracket* 
- ![Project‑2](./part2.jpg)  
+ ![Project‑2](./part2.png)  
   A robust multi‑component model for Automobile Industry .
 
 - *Starcore coupling* 
- ![Project‑3](./part3.jpg)  
+ ![Project‑3](./part3.png)  
   Plys up Central hub geometry for Sci-fi twist.
 
 
