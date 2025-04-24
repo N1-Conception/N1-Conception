@@ -30,7 +30,7 @@ Here are a few of my standout designs—click to explore the folder and dive in:
 
 - *Starcore coupling* 
  ![Project‑3](./part3.png)  
-  Plys up Central hub geometry for Sci-fi twist.
+  Central hub geometry for Sci-fi twist.
 
 
 ---
@@ -68,4 +68,4 @@ Want to collaborate or share thoughts?
 > "Engineering is the art of directing the great sources of power in nature for the use and convenience of man." – Thomas Tredgold
 
 ---
-(./04.jpg)
+![Project‑04](./04.jpg)
