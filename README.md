@@ -68,4 +68,4 @@ Want to collaborate or share thoughts?
 > "Engineering is the art of directing the great sources of power in nature for the use and convenience of man." – Thomas Tredgold
 
 ---
-![Project‑04](./name.jpg)
+![Project‑name](./name.jpg)
