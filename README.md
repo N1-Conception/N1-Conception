@@ -13,7 +13,7 @@ Dive into a curated collection of mechanical marvels, meticulously modeled and b
 I'm *Nishchay Sharma*, a passionate Mechanical Engineer and Gold Medalist who transforms ideas into tangible designs. From intricate mechanisms to futuristic concepts, I blend precision with creativity to craft models that resonate.
 
 > "If you can imagine it, I can model it."  
-![Alt Text](./name.png)
+![Alt Text](./04.png)
 ---
 
 ## 🌟 Highlights
@@ -68,4 +68,4 @@ Want to collaborate or share thoughts?
 > "Engineering is the art of directing the great sources of power in nature for the use and convenience of man." – Thomas Tredgold
 
 ---
-![Project‑04](./04.jpg)
+![Project‑04](./name.jpg)
