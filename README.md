@@ -24,9 +24,9 @@ Here are a few of my standout designs—click to explore the folder and dive in:
  ![Project‑1](./Part1.png) 
   A high‑precision gear train optimized for minimal backlash and smooth torque transmission.
 
-- *Omni Mount Bracket* 
+- *ScrewDriver* 
  ![Project‑2](./driver.png)  
-  A robust multi‑component model for Automobile Industry .
+  The model focuses on achieving industrial-grade accuracy, ergonomic grip design .
 
 - *Starcore coupling* 
  ![Project‑3](./part3.png)  
