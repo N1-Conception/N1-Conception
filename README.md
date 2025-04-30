@@ -25,7 +25,7 @@ Here are a few of my standout designs—click to explore the folder and dive in:
   A high‑precision gear train optimized for minimal backlash and smooth torque transmission.
 
 - *Omni Mount Bracket* 
- ![Project‑2](./part2.png)  
+ ![Project‑2](./driver.png)  
   A robust multi‑component model for Automobile Industry .
 
 - *Starcore coupling* 
@@ -80,4 +80,4 @@ Nishchay Sharma
 >Design Engineer |
 
 
-![Project‑name](./ends.png)
+![Project‑name](./end.png)
