@@ -80,4 +80,4 @@ Nishchay Sharma
 >Design Engineer |
 
 
-![Project‑name](./end.png)
+![Project‑name](./ends.png)
