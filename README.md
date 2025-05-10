@@ -20,9 +20,9 @@ I'm *Nishchay Sharma*, a passionate Mechanical Engineer and Gold Medalist who tr
 
 Here are a few of my standout designs—click to explore the folder and dive in:
 
-- *Spur Gear Mechanism*
- ![Project‑1](./Part1.png) 
-  A high‑precision gear train optimized for minimal backlash and smooth torque transmission.
+- *Exhaust Manifold*
+ ![Project‑1](./picture1.png) 
+  The exhaust manifold is a crucial component in an internal combustion engine, responsible for collecting exhaust gases from multiple cylinders into a single pipe.
 
 - *ScrewDriver* 
  ![Project‑2](./driver.png)  
