@@ -13,7 +13,7 @@ Dive into a curated collection of mechanical marvels, meticulously modeled and b
 I'm *Nishchay Sharma*, a passionate Mechanical Engineer and Gold Medalist who transforms ideas into tangible designs. From intricate mechanisms to futuristic concepts, I blend precision with creativity to craft models that resonate.
 
 > "If you can imagine it, I can model it."  
-![Alt Text](./10.jpg)
+![Alt Text](./rim.jpg)
 ---
 
 ## 🌟 Highlights
