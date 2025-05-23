@@ -9,8 +9,21 @@ Dive into a curated collection of mechanical marvels, meticulously modeled and b
 ---
 
 ## 👨‍💻 About Me
+# Hey there, I’m *Nishchay Sharma* 
 
-I'm *Nishchay Sharma*, a passionate Mechanical Engineer and Gold Medalist who transforms ideas into tangible designs. From intricate mechanisms to futuristic concepts, I blend precision with creativity to craft models that resonate.
+*Mechanical Engineer | Design Enthusiast | Problem Solver*
+
+Welcome to my space on GitHub! I’m someone who enjoys bringing ideas to life through CAD, clean design, and solid engineering logic. I graduated with top honors in Mechanical Engineering. From intricate mechanisms to futuristic concepts, I blend precision with creativity to craft models that resonate who transforms ideas into tangible designs.
+
+Here, you'll find a mix of creative CAD models, mechanical concepts, and side projects I’m genuinely proud of. Whether it’s an energy regen system or a fully modeled fighter jet, I like building things that make sense and look good doing it.
+
+---
+
+### Quick Demo – YouTube Short  
+[![Watch the Assembly Demonstration](https://img.youtube.com/vi/Z5jgkC8532s/maxresdefault.jpg)](https://youtube.com/shorts/Z5jgkC8532s?si=RO3HJcgB54wnKukq)
+
+Just a glimpse of my design flow — short, sharp, and solid. More to come!
+
 
 > "If you can imagine it, I can model it."  
 ![Alt Text](./rim.png)
