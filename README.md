@@ -9,9 +9,9 @@ Dive into a curated collection of mechanical marvels, meticulously modeled and b
 ---
 
 ## 👨‍💻 About Me
-# Hey there, I’m *Nishchay Sharma* 
+# Hey there, I’m Nishchay Sharma 
 
-*Mechanical Engineer | Design Enthusiast | Problem Solver*
+>*Mechanical Engineer | Design Enthusiast | Problem Solver*
 
 Welcome to my space on GitHub! I’m someone who enjoys bringing ideas to life through CAD, clean design, and solid engineering logic. I graduated with top honors in Mechanical Engineering. From intricate mechanisms to futuristic concepts, I blend precision with creativity to craft models that resonate who transforms ideas into tangible designs.
 
