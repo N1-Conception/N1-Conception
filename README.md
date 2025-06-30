@@ -5,7 +5,7 @@
 
 *Welcome to N1-Conception – where engineering meets imagination!*  
 Dive into a curated collection of mechanical marvels, meticulously modeled and brought to life using SolidWorks.
-![Profile](./profile.jpg)
+![Profile](./brand image.jpg)
 ---
 
 ## 👨‍💻 About Me
@@ -41,9 +41,9 @@ Here are a few of my standout designs—click to explore the folder and dive in:
  ![Project‑2](./driver.png)  
   The model focuses on achieving industrial-grade accuracy, ergonomic grip design .
 
-- *Starcore coupling* 
- ![Project‑3](./part3.png)  
-  Central hub geometry for Sci-fi twist.
+- *Double Sided Wrench* 
+ ![Project‑name](./ends.png)  
+  This is a double sided wrench made with fully constrained grometry, showcasing real world asthetics.
 
 
 ---
@@ -93,4 +93,4 @@ Nishchay Sharma
 >Design Engineer |
 
 
-![Project‑name](./ends.png)
+![Profile](./profile.jpg)
