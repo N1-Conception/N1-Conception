@@ -5,7 +5,7 @@
 
 *Welcome to N1-Conception – where engineering meets imagination!*  
 Dive into a curated collection of mechanical marvels, meticulously modeled and brought to life using SolidWorks.
-![Profile](./brand image.jpg)
+![brand image](./brand image.jpg)
 ---
 
 ## 👨‍💻 About Me
