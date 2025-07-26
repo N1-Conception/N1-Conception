@@ -3,11 +3,17 @@
 
 
 
+
+
 *Welcome to N1-Conception – where engineering meets imagination!*  
 Dive into a curated collection of mechanical marvels, meticulously modeled and brought to life using SolidWorks.
 
 ![brandimage](./brandimage.png)
 ---
+
+
+
+
 
 ## 👨‍💻 About Me
 # Hey there, I’m Nishchay Sharma 
@@ -20,6 +26,8 @@ Here, you'll find a mix of creative CAD models, mechanical concepts, and side pr
 
 ---
 
+
+
 ### Quick Demo – YouTube Short  
 [![Watch the Assembly Demonstration](https://img.youtube.com/vi/Z5jgkC8532s/maxresdefault.jpg)](https://youtube.com/shorts/Z5jgkC8532s?si=RO3HJcgB54wnKukq)
 
@@ -29,6 +37,8 @@ Just a glimpse of my design flow — short, sharp, and solid. More to come!
 > "If you can imagine it, I can model it."  
 ![Alt Text](./rim.png)
 ---
+
+
 
 ## 🌟 Highlights
 
@@ -49,6 +59,9 @@ Here are a few of my standout designs—click to explore the folder and dive in:
 
 ---
 
+
+
+
 ## 💡 Skills & Tools
 
 - *CAD Modeling* – Parts, Assemblies, Exploded Views  
@@ -57,6 +70,9 @@ Here are a few of my standout designs—click to explore the folder and dive in:
 - *Software Proficiency* – SolidWorks, AutoCAD 
 
 ---
+
+
+
 
 ## 📂 How to Explore
 
@@ -67,6 +83,8 @@ Here are a few of my standout designs—click to explore the folder and dive in:
    - Brief model notes (if applicable)
 
 ---
+
+
 
 ## 🤝 Let's Connect
 
