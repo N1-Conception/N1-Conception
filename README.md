@@ -58,7 +58,8 @@ Here are a few of my standout designs—click to explore the folder and dive in:
 
 
 ---
-[![Subscribe & Watch on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@N1Conception?sub_confirmation=1)
+
+[![Subscribe](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@N1Conception?sub_confirmation=1)
 
 
 
