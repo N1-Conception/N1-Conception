@@ -35,7 +35,7 @@ Just a glimpse of my design flow — short, sharp, and solid. More to come!
 
 
 > "If you can imagine it, I can model it."  
-![Alt Text](./rim.png)
+![Alt Text](./radial.png)
 ---
 
 
@@ -58,6 +58,7 @@ Here are a few of my standout designs—click to explore the folder and dive in:
 
 
 ---
+[![Subscribe & Watch on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@N1Conception?sub_confirmation=1)
 
 
 
@@ -67,7 +68,7 @@ Here are a few of my standout designs—click to explore the folder and dive in:
 - *CAD Modeling* – Parts, Assemblies, Exploded Views  
 - *Design for Manufacturing* – Tolerances, Material Selection  
 - *Creative Engineering* – Functional meets futuristic  
-- *Software Proficiency* – SolidWorks, AutoCAD 
+- *Software Proficiency* – SolidWorks, AutoCAD, CATIA V5
 
 ---
 
