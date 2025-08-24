@@ -57,9 +57,7 @@ Here are a few of my standout designs—click to explore the folder and dive in:
   This is a double sided wrench made with fully constrained grometry, showcasing real world asthetics.
 
 
----
-[▶️ Subscribe to N1 Conception](https://www.youtube.com/@N1Conception?sub_confirmation=1)
-
+[![YouTube Subscribe](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@N1-Conception?sub_confirmation=1)
 
 
 ## 💡 Skills & Tools
