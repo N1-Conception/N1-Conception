@@ -7,7 +7,7 @@
 
 *Welcome to N1-Conception – where engineering meets imagination!*  
 Dive into a curated collection of mechanical marvels, meticulously modeled and brought to life using: 
->* Auto-CAD | SolidWorks | SolidEdge*.
+> Auto-CAD | SolidWorks | SolidEdge
 
 ![brandimage](./brandimage.png)
 ---
