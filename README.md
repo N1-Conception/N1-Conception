@@ -13,7 +13,6 @@ Dive into a curated collection of mechanical marvels, meticulously modeled and b
 ---
 
 
-
 ## 👨‍💻 About Me
 # Hey there, I’m Nishchay Sharma 
 
