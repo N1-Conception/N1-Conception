@@ -46,9 +46,9 @@ Just a glimpse of my design flow — short, sharp, and solid. More to come!
 
 Here are a few of my standout designs—click to explore the folder and dive in:
 
-- *Exhaust Manifold*
+- *Off-Road Buggy Design*
  ![Project‑1](./picture1.png) 
-  The exhaust manifold is a crucial component in an internal combustion engine, responsible for collecting exhaust gases from multiple cylinders into a single pipe.
+  This Vehicle Chasis and overall Standouts are build by our own Calculations and concepts.
 
 - *ScrewDriver* 
  ![Project‑2](./driver.png)  
