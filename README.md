@@ -65,7 +65,7 @@ Here are a few of my standout designs—click to explore the folder and dive in:
 - *CAD Modeling* – Parts, Assemblies, Exploded Views  
 - *Design for Manufacturing* – Tolerances, Material Selection  
 - *Creative Engineering* – Functional meets futuristic  
-- *Software Proficiency* – SolidWorks, AutoCAD, CATIA V5
+- *Software Proficiency* – SolidWorks, AutoCAD, SolidEdge
 
 ---
 
