@@ -12,7 +12,6 @@ Dive into a curated collection of mechanical marvels, meticulously modeled and b
 ![brandimage](./brandimage.png)
 ---
 
-
 ## 👨‍💻 About Me
 # Hey there, I’m Nishchay Sharma 
 
